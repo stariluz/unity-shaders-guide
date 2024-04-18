@@ -22,4 +22,4 @@ Fragment shaders manage how the pixels between the vertices look. They are inter
 
 Resources consulted.
 [The surrican. Vertex shader vs Fragment Shader.](https://stackoverflow.com/a/4421289/18456344). Stack Overflow.
-[Unity Manual. UMaster Stack](https://docs.unity3d.com/Packages/com.unity.shadergraph@10.5/manual/Master-Stack.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=asset-links-gmg-artist-expansion&utm_content=technical-artist-ebook). Unity.
+[Unity Manual. Master Stack](https://docs.unity3d.com/Packages/com.unity.shadergraph@10.5/manual/Master-Stack.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=asset-links-gmg-artist-expansion&utm_content=technical-artist-ebook). Unity.
