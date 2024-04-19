@@ -25,6 +25,8 @@ Fragment shaders manage how the pixels between the vertices look. They are inter
 To install the URP (Universal Render Pipeline) into Unity, you can follow the next tutorial Unity made.
 [Getting started](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/InstallingAndConfiguringURP.html).
 
+To create our first Shader Graph we are going to right click in assets and then **Create**$\to$**Shader Graph**$\to$**URP**$\to$**Lit Shader Graph**. This will create our shader graph with the basic configuration that allow us to preview how our nodes are affecting the resulting shader.
+
 Resources consulted.
 [The surrican. Vertex shader vs Fragment Shader.](https://stackoverflow.com/a/4421289/18456344). Stack Overflow.
 [Unity Manual. Master Stack](https://docs.unity3d.com/Packages/com.unity.shadergraph@10.5/manual/Master-Stack.html?utm_source=demand-gen&utm_medium=pdf&utm_campaign=asset-links-gmg-artist-expansion&utm_content=technical-artist-ebook). Unity.
