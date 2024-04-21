@@ -40,3 +40,9 @@ The nodes in the documentation are organised in the same way that the Create Nod
 #### Utility
 
 1. Colorspace Colection
+
+### Input
+
+#### Basic
+
+1. [Color](./input/color-node.md)

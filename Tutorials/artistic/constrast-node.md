@@ -2,11 +2,11 @@
 # Contrast
 Adjust the contrast of the input *In* by the amount of the input *Contrast*. If the value of contrast is 1, it returns *In*, if it's 0, returns the midpoint of *In*.
 
-### Input.
+### Inputs
 In: Vector3
 Contrast: Vector1
 
-### Outputs.
+### Outputs
 Out: Vector3
 
 ## Controllers

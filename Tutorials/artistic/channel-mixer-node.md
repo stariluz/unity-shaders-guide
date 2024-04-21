@@ -2,10 +2,10 @@
 # Channel Mixer
 It controls the ammount each of the channels of input *In* contribute each of the channels of output *Out*
 
-### Input.
+### Inputs
 In: Vector3
 
-### Outputs.
+### Outputs
 Out: Vector3
 
 ## Controllers
