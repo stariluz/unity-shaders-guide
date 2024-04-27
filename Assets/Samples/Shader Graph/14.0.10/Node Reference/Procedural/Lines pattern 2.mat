@@ -33,7 +33,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ellipse
+  m_Name: Lines pattern 2
   m_Shader: {fileID: -6465566751694194690, guid: 9082ef4de20a58a4facb253cae91e770, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -67,5 +67,10 @@ Material:
     - _BUILTIN_QueueOffset: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _Strength: 0
+    - _Velocity: 0.1
+    m_Colors:
+    - _Base_color: {r: 1, g: 0, b: 0, a: 0}
+    - _Frecuency: {r: 2, g: 2, b: 0, a: 0}
+    - _Origin: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
