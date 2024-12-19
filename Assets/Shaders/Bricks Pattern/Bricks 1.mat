@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bricks
+  m_Name: Bricks 1
   m_Shader: {fileID: -6465566751694194690, guid: ea8cd1620c9e94b0e92ae8ca83336036, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -42,9 +42,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Strength: 33
-    - _VelocityX: 15
-    - _VelocityY: 15
-    - _Velocity_Offset: 0
+    - _VelocityX: 10
+    - _VelocityY: 40
+    - _Velocity_Offset: 40
     m_Colors:
     - _Frecuency: {r: 0, g: 0, b: 0, a: 0}
     - _Origin: {r: 0.5, g: 0.5, b: 0, a: 0}

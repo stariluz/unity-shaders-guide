@@ -67,5 +67,9 @@ Material:
     - _BUILTIN_QueueOffset: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _Strength: 0
+    - _Velocity: 0.2
+    m_Colors:
+    - _Frecuency: {r: 1, g: 1, b: 0, a: 0}
+    - _Origin: {r: 0.5, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
